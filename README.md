@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adyaprana/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/Adyaprana/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Adyaprana/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
