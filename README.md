@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adyaprana/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Adyaprana/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Adyaprana/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adyaprana/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Adyaprana/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Adyaprana/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Adyaprana/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Math
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Adyaprana/DSA/tree/master/1929-concatenation-of-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Adyaprana/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
