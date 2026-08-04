@@ -26,6 +26,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Adyaprana/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adyaprana/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adyaprana/DSA/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adyaprana/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Adyaprana/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Adyaprana/DSA/tree/master/1929-concatenation-of-array) |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Adyaprana/DSA/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adyaprana/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -149,4 +152,24 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adyaprana/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
