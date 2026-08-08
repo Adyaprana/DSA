@@ -2,7 +2,7 @@
 class Solution(object):
     def sortArray(self, nums):
         def merge_sort(nums):
-            # Base case
+
             if len(nums) <= 1:
                 return nums
 
