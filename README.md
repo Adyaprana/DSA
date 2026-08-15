@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Adyaprana/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Adyaprana/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Adyaprana/DSA/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Adyaprana/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Adyaprana/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +56,7 @@
 | [0217-contains-duplicate](https://github.com/Adyaprana/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adyaprana/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Adyaprana/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Adyaprana/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Adyaprana/DSA/tree/master/0414-third-maximum-number) |
@@ -178,6 +180,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Adyaprana/DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
