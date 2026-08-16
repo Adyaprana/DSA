@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adyaprana/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Adyaprana/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adyaprana/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adyaprana/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +145,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Adyaprana/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Adyaprana/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Adyaprana/DSA/tree/master/0523-continuous-subarray-sum) |
