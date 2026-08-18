@@ -29,6 +29,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Adyaprana/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adyaprana/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adyaprana/DSA/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Adyaprana/DSA/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Adyaprana/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adyaprana/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Adyaprana/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -152,6 +153,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Adyaprana/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Adyaprana/DSA/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adyaprana/DSA/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Adyaprana/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
