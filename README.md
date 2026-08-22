@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adyaprana/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adyaprana/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Adyaprana/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adyaprana/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Adyaprana/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -72,6 +73,7 @@
 | [0058-length-of-last-word](https://github.com/Adyaprana/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Adyaprana/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adyaprana/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Adyaprana/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adyaprana/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -115,6 +117,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adyaprana/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Adyaprana/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
