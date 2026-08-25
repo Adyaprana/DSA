@@ -16,6 +16,7 @@ class Solution(object):
             h -= 1
         return 0
 
+
 # class Solution(object):
 #     def hIndex(self, citations):
 #         citations.sort()
