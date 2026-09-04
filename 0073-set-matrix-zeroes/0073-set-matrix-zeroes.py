@@ -1,14 +1,11 @@
 class Solution(object):
     def setZeroes(self, matrix):
-        """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
-
-        """
         rows = len(matrix)
         columns = len(matrix[0])
+
         zero_rows = []
         zero_columns = []
+
         for row in range(rows):
             for column in range(columns):
                 if matrix[row][column] == 0:
