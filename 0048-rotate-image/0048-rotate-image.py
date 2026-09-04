@@ -11,6 +11,13 @@ class Solution(object):
             for column in range(row+1, columns):
                 matrix[row][column], matrix[column][row] = matrix[column][row], matrix[row][column]
 
-        for column in range(columns):
-            matrix[column].reverse()
+        # for column in range(columns):
+        #     matrix[column].reverse()
         
+        for row in matrix:
+            left = 0
+            right = len(row) - 1
+            while left < right:
+                row[left], row[right] = row[right], row[left]
+                left += 1
+                right -= 1
