@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Adyaprana/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adyaprana/DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Adyaprana/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adyaprana/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adyaprana/DSA/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adyaprana/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adyaprana/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Adyaprana/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Adyaprana/DSA/tree/master/0268-missing-number) |
@@ -198,6 +200,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adyaprana/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adyaprana/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Adyaprana/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
