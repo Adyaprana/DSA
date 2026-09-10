@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adyaprana/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Adyaprana/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Adyaprana/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adyaprana/DSA/tree/master/0054-spiral-matrix) |
@@ -88,6 +89,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adyaprana/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adyaprana/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adyaprana/DSA/tree/master/0125-valid-palindrome) |
@@ -98,9 +100,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adyaprana/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adyaprana/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adyaprana/DSA/tree/master/0152-maximum-product-subarray) |
@@ -208,4 +212,8 @@
 | [0054-spiral-matrix](https://github.com/Adyaprana/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adyaprana/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Adyaprana/DSA/tree/master/0867-transpose-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
