@@ -6,9 +6,7 @@ class Solution(object):
         """
         n = 0
         k = len(s) // 2
-        for i in range(len(s)-1 , k-1, -1):
+        for i in range(len(s)-1 , (len(s) // 2) -1, -1):
                 s[i] , s[n] = s[n], s[i]
                 n += 1
-        return s 
-
 
