@@ -8,4 +8,3 @@ class Solution(object):
         for i in range(len(s)-1 , (len(s) // 2) -1, -1):
                 s[i] , s[n] = s[n], s[i]
                 n += 1
-
