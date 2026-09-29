@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Adyaprana/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Adyaprana/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Adyaprana/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adyaprana/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adyaprana/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adyaprana/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adyaprana/DSA/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adyaprana/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Adyaprana/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Adyaprana/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adyaprana/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Adyaprana/DSA/tree/master/0205-isomorphic-strings) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adyaprana/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Adyaprana/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adyaprana/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adyaprana/DSA/tree/master/0169-majority-element) |
@@ -78,6 +81,7 @@
 | [0014-longest-common-prefix](https://github.com/Adyaprana/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adyaprana/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Adyaprana/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Adyaprana/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Adyaprana/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Adyaprana/DSA/tree/master/0205-isomorphic-strings) |
