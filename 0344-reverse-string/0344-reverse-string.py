@@ -1,10 +1,16 @@
 class Solution(object):
     def reverseString(self, s):
-        """
-        :type s: List[str]
-        :rtype: None Do not return anything, modify s in-place instead.
-        """
-        n = 0
-        for i in range(len(s)-1 , (len(s) // 2) -1, -1):
-                s[i] , s[n] = s[n], s[i]
-                n += 1
+        # two pointer 
+        left = 0
+        right = len(s) - 1
+
+        while left < right:
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
+
+        # single pointer
+        # n = 0
+        # for i in range(len(s)-1 , (len(s) // 2) -1, -1):
+        #         s[i] , s[n] = s[n], s[i]
+        #         n += 1
