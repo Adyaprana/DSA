@@ -7,6 +7,7 @@ class Solution(object):
         if len(strs) <= 1:
             return [strs]
         seen = {}
+        
         for string in range(len(strs)):
             key = "".join(sorted(strs[string]))
             if key not in seen:
