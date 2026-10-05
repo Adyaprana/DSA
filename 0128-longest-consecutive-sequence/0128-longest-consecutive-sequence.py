@@ -3,7 +3,7 @@ class Solution(object):
 
         if len(nums) == 0:
             return 0
-        nums = sorted(nums)
+        nums.sort()
         current_count = 1
         count = 1
 
