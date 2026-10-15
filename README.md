@@ -93,6 +93,7 @@
 | [0344-reverse-string](https://github.com/Adyaprana/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Adyaprana/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adyaprana/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/Adyaprana/DSA/tree/master/0520-detect-capital) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adyaprana/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
