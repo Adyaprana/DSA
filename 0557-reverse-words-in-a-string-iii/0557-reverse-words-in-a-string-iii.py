@@ -5,7 +5,6 @@ class Solution(object):
         reversed_words = [word[::-1] for word in words]
         return ' '.join(reversed_words)
 
-
 # class Solution(object):
 #     def reverseWords(self, s):
 #         words = list(s)
